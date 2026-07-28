@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A powerful and scalable backend built using **Node.js**, **Express.js**, and **MongoDB**. This project provides RESTful APIs for authentication, database management, and server-side functionality.",
+  "homepage": "https://github.com/CodeNexus456/Backend#readme",
+  "bugs": {
+    "url": "https://github.com/CodeNexus456/Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeNexus456/Backend.git"
+  },
+  "license": "ISC",
+  "author": "Suraj kumar",
+  "type": "module",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
